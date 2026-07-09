@@ -1,6 +1,6 @@
 [package]
 name = "clickside"
-version = "1.2.0"
+version = "1.2.1"
 description = "ClickSide - A better ClickUp companion"
 authors = ["you"]
 edition = "2021"
